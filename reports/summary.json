@@ -1,0 +1,16 @@
+{
+  "events": 2756101,
+  "visitors": 1407580,
+  "sessions": 1761675,
+  "funnel_sessions": [
+    1755781,
+    35832,
+    10411
+  ],
+  "view_to_cart": 0.020408012160969963,
+  "cart_to_purchase": 0.29055034605938823,
+  "view_to_purchase": 0.005929554995754026,
+  "repeat_buyer_rate": 0.09070739824217083,
+  "category_chi2": 11576.856056983284,
+  "category_chi2_pvalue": 0.0
+}
